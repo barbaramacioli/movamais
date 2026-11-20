@@ -1,4 +1,4 @@
-package br.edu.proo.gymtracker;
+package br.edu.proo.movamais;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.mock;
